@@ -5,13 +5,13 @@ I am an analytics professional with 7.5 Years of experience in Data Science and 
 Currently, I am looking for a full-time job in Data Science, Machine Learning or related field. 
 
 # Things I'm good at:-
-**Languages:**  Python, SQL, HTML, JavaScript, Excel VBA.
+**Languages:**  Python, SQL, C, HTML, JavaScript, Excel VBA.
 
 **Framework:** Flask, React, Bootstrap.
 
-**Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK, TextBlob, SPSS.
+**Libraries & Tools:** AWS, NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK, TextBlob, SPSS, Git, Tkinter.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Machine learning, Deep learning, Image Processing, Strong Statistical Foundation, Data Visualization.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Machine learning, Deep learning, Strong Statistical Foundation, Data Visualization.
 
 # How to reach me:-
 
