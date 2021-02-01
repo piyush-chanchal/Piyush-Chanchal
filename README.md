@@ -7,8 +7,6 @@ Currently, I am looking for a full-time job in Data Science, Machine Learning or
 # Things I'm good at:-
 **Languages:**  Python, SQL, C, HTML, JavaScript, Excel VBA.
 
-**Framework:** Flask, React, Bootstrap.
-
 **Libraries & Tools:** AWS, NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK, TextBlob, SPSS, Git, Tkinter.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Machine learning, Deep learning, Strong Statistical Foundation, Data Visualization.
