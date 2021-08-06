@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I am a data scientist with 8 Years and 2 months of experience in Data Science/Machine learning and analytics with a demonstrated history of working in Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
+I am a data scientist with 8 Years and 3 months of experience in Data Science/Machine learning and analytics with a demonstrated history of working in Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
 
 
 Currently, I am looking for a full-time job in Data Science, Machine Learning, Data analytics or related field.
