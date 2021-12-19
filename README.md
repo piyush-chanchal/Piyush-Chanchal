@@ -1,14 +1,14 @@
 ### Hi there 👋🏻
 
-I am a data scientist with 8 Years and 3 months of experience in Data Science/Machine learning and analytics with a demonstrated history of working in Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
+I am a data science professional with 8 Years and 6 months of experience in Data engineering, Data Science/Machine learning and analytics with a demonstrated history of working in Oil and Gas, Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data pipelines, Microservices, Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
 
 
-Currently, I am looking for a full-time job in Data Science, Machine Learning, Data analytics or related field.
+Currently, I am looking for a full-time job in Data Science, Data engineering, Machine Learning, Data analytics or related field.
 
 # Things I'm good at:-
 **Languages:**  Python, SQL, C, HTML, JavaScript, Excel VBA.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, NLTK, TextBlob, Flask, Tensorflow, SPSS, Git, Tkinter and AWS.
+**Libraries & Tools:** Flask, Nifi, AWS, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK, TextBlob, Tensorflow, SPSS, Git and Tkinter.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Machine learning, Deep learning, Strong Statistical Foundation, Data Visualization.
 
