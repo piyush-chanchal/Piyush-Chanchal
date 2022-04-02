@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I am a data science professional with 8 Years and 6 months of experience in Data engineering, Data Science/Machine learning and analytics with a demonstrated history of working in Oil and Gas, Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data pipelines, Microservices, Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
+I am a data science professional with 9 Years of experience in Data engineering, Data Science/Machine learning and analytics with a demonstrated history of working in Oil and Gas, Analytics, Market Research and Digital marketing industry along with computer science and engineering degree. Having a good experience on Data pipelines, Microservices, Data collection, cleaning, processing, modeling, visualization, data analytics and machine learning using different tools and platforms.
 
 
 Currently, I am looking for a full-time job in Data Science, Data engineering, Machine Learning, Data analytics or related field.
